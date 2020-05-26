@@ -48,7 +48,7 @@ They all target the same nav element.
 ```
 - 
 ```
-1) An element with an class of "nav"
+1) An element with an class of "nav"  <<<<---Correct
 2) A nav element
 3) An div with a id of "nav"
 ```
